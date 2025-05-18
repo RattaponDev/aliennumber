@@ -1,4 +1,4 @@
 วิธี run project
 
-npm install
+npm install 
 npm start
